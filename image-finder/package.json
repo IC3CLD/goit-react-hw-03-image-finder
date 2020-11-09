@@ -1,6 +1,6 @@
 {
   "name": "image-finder",
-  "homepage": "https://IC3CLD.github.io/image-finder",
+  "homepage": "https://IC3CLD.github.io/goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
